@@ -8,4 +8,4 @@
 7. Configure Kafka Consumer in StockService Microservice
 8. Create Kafka Consumer in StockService Microservice
 9. Configure and Create Kafka Consumer in EmailService
-10. Run 3 Microservices Together and Have a Demo
+10. Run 3 Microservices Together 
